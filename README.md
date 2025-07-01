@@ -15,7 +15,7 @@ Tools: Visual Studio, Linux (Basic), Bizagi, Draw.io (Mockups)
 
 Office Suite: Intermediate-Advanced (Excel Specialist certified! 📊)
 
-🌱 Currently: Leveling up my skills in web development and technical support.
+🌱 Currently: Leveling up my skills in web development.
 🔧 Experience:
 
 IT Support at EMIT LATAM (2024)
@@ -46,7 +46,7 @@ Herramientas: Visual Studio, Linux (Básico), Bizagi, Draw.io (Mockups)
 
 Office Suite: Intermedio-Avanzado (¡Certificado en Excel Intermedio! 📊)
 
-🌱 Actualmente: Mejorando mis habilidades en desarrollo web y soporte técnico.
+🌱 Actualmente: Mejorando mis habilidades en desarrollo web.
 
 🔧 Experiencia:
 
