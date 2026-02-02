@@ -1,6 +1,6 @@
 
 
-![Fondo](https://github.com/user-attachments/assets/a75b8fd9-e638-47b3-a019-f99a6d91d53e)
+
 # 👨‍💻 Erick Oswaldo Urcia Callan  
 
 🎓 Estudiante de Ingeniería de Sistemas e Informática (8vo ciclo)  
