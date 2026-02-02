@@ -1,68 +1,170 @@
 
 
 ![Fondo](https://github.com/user-attachments/assets/a75b8fd9-e638-47b3-a019-f99a6d91d53e)
+# 👨‍💻 Erick Oswaldo Urcia Callan  
 
-# Hey, I´m Erick Urcia
-🚀 Systems & Informatics Engineering Student at Universidad Tecnológica del Perú (UTP) | Passionate about tech and problem-solving.
+🎓 Estudiante de Ingeniería de Sistemas e Informática (8vo ciclo)  
+📍 Lima, Perú  
+💡 Interesado en Automatización, Análisis de Datos, Desarrollo Web y Soluciones Digitales  
 
-💻 Tech Skills:
+---
 
-Frontend: HTML, CSS, JavaScript, React (Intermediate)
+## 🚀 Sobre mí  
 
-Backend/Database: Python, SQL Server (Basic-Intermediate)
+Soy estudiante de Ingeniería de Sistemas con enfoque en el desarrollo de soluciones tecnológicas, automatización de procesos y análisis de información. He trabajado en proyectos académicos y prácticos relacionados con bases de datos, desarrollo web y optimización de procesos mediante programación.
 
-Tools: Visual Studio, Linux (Basic), Bizagi, Draw.io (Mockups)
+Me caracterizo por mi capacidad de aprendizaje continuo, responsabilidad, organización y orientación a resultados. Actualmente busco seguir fortaleciendo mis habilidades técnicas y profesionales dentro de entornos TI, data y transformación digital.
 
-Office Suite: Intermediate-Advanced (Excel Specialist certified! 📊)
+---
 
-🌱 Currently: Leveling up my skills in web development.
-🔧 Experience:
+## 🛠️ Tecnologías y Herramientas  
 
-IT Support at EMIT LATAM (2024)
+### 💻 Lenguajes y Bases de Datos  
+- Python 🐍 (Intermedio)  
+- SQL Server 🗄️ (Intermedio)  
+- HTML, CSS y JavaScript 🌐  
 
-Built websites and databases (2023-2025) using modern tech stacks.
+### 📊 Datos y Automatización  
+- Microsoft Excel (Tablas dinámicas, fórmulas, reportes) 📈  
+- Power BI (Básico - Intermedio)  
+- n8n (Automatización de flujos de trabajo) ⚙️  
 
-📜 Certifications:
+### ⚙️ Otras Herramientas  
+- Git y GitHub 🔧  
+- Draw.io (Diagramación de procesos)  
+- Visual Studio Code  
 
-Technical Support Specialist | Intermediate Excel Advisor | English A2 (CEFR)
+---
 
-🌟 Soft Skills: Team player, proactive, great communicator, and analytical thinker.
+## 📂 Proyectos Destacados  
 
-🗣 Languages: Spanish (Native) | English (Intermediate)
+### 📦 Sistema de Gestión de Inventarios  
+- Desarrollo de sistema CRUD con Python y SQL Server.  
+- Diseño de base de datos relacional.  
+- Extracción, consolidación y procesamiento de información.  
+- Automatización de procesos de registro y consulta.  
 
-Let’s connect and build something awesome! ✨
+### 🌐 Landing Page para Negocio Local  
+- Desarrollo web responsive.  
+- Organización y presentación estratégica de información digital.  
+- Optimización de experiencia de usuario.  
 
-# Hola! Soy Erick Urcia
+---
 
-🚀 Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP) | Apasionado por la tecnología y la resolución de problemas.
+## 📈 Áreas de Interés  
 
-💻 Habilidades Técnicas:
+- Automatización de procesos  
+- Análisis de datos  
+- Reporting y dashboards  
+- Desarrollo web  
+- Transformación digital  
+- Soporte TI  
 
-Frontend: HTML, CSS, JavaScript, React (Intermedio)
+---
 
-Backend/Base de datos: Python, SQL Server (Básico-Intermedio)
+## 🤝 Habilidades Profesionales  
 
-Herramientas: Visual Studio, Linux (Básico), Bizagi, Draw.io (Mockups)
+- Análisis de información  
+- Organización y seguimiento de tareas  
+- Trabajo en equipo  
+- Comunicación efectiva  
+- Adaptabilidad  
+- Enfoque en mejora continua  
 
-Office Suite: Intermedio-Avanzado (¡Certificado en Excel Intermedio! 📊)
+---
 
-🌱 Actualmente: Mejorando mis habilidades en desarrollo web.
+## 📫 Contacto  
 
-🔧 Experiencia:
+📧 Correo: erickoswaldouc@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/erick-urcia-b01752319/  
+💻 GitHub: https://github.com/ErickOswaldoUrciaCallan  
 
-Soporte TI en EMIT LATAM (2024)
+---
 
-Creación de páginas web y bases de datos (2023-2025) con tecnologías modernas.
+⭐ Gracias por visitar mi perfil. ¡Siempre abierto a aprender y colaborar en nuevos proyectos!
 
-📜 Certificaciones:
+# 👨‍💻 Erick Oswaldo Urcia Callan  
 
-Especialista en Soporte Técnico | Asesor en Excel Intermedio | Inglés A2 (MCER)
+🎓 Systems Engineering Student (8th semester)  
+📍 Lima, Peru  
+💡 Interested in Automation, Data Analysis, Web Development, and Digital Solutions  
 
-🌟 Habilidades Blandas: Trabajo en equipo, proactivo, buena comunicación y pensamiento analítico.
+---
 
-🗣 Idiomas: Español (Nativo) | Inglés (Intermedio)
+## 🚀 About Me  
 
-¡Conectemos y creemos algo increíble! ✨
+I am a Systems Engineering student focused on developing technological solutions, process automation, and data analysis. I have worked on academic and practical projects related to databases, web development, and process optimization through programming.
+
+I am characterized by continuous learning, responsibility, organization, and a results-driven mindset. I am currently looking to strengthen my technical and professional skills in IT, data, and digital transformation environments.
+
+---
+
+## 🛠️ Technologies & Tools  
+
+### 💻 Programming Languages & Databases  
+- Python 🐍 (Intermediate)  
+- SQL Server 🗄️ (Intermediate)  
+- HTML, CSS, and JavaScript 🌐  
+
+### 📊 Data & Automation  
+- Microsoft Excel (Pivot tables, formulas, reporting) 📈  
+- Power BI (Basic - Intermediate)  
+- n8n (Workflow automation) ⚙️  
+
+### ⚙️ Other Tools  
+- Git & GitHub 🔧  
+- Draw.io (Process diagramming)  
+- Visual Studio Code  
+
+---
+
+## 📂 Featured Projects  
+
+### 📦 Inventory Management System  
+- CRUD system development using Python and SQL Server.  
+- Relational database design.  
+- Data extraction, consolidation, and processing.  
+- Process automation for data registration and queries.  
+
+### 🌐 Landing Page for Local Business  
+- Responsive web development.  
+- Strategic organization of digital content.  
+- User experience optimization.  
+
+---
+
+## 📈 Areas of Interest  
+
+- Process automation  
+- Data analysis  
+- Reporting and dashboards  
+- Web development  
+- Digital transformation  
+- IT support  
+
+---
+
+## 🤝 Professional Skills  
+
+- Data analysis  
+- Task organization and follow-up  
+- Teamwork  
+- Effective communication  
+- Adaptability  
+- Continuous improvement mindset  
+
+---
+
+## 📫 Contact  
+
+📧 Email: erickoswaldouc@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/erick-urcia-b01752319/  
+💻 GitHub: https://github.com/ErickOswaldoUrciaCallan  
+
+---
+
+⭐ Thank you for visiting my profile. Always open to learning and collaborating on new projects!
+
 
 ![Web Project Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVvOTVnc2hiZTFkeTc0Z2kxMXY2d2FpajZtYmU2Mm51NmxkdDJvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif)
 
