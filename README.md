@@ -3,7 +3,7 @@
 
 # 👨‍💻 Erick Oswaldo Urcia Callan  
 
-🎓 Estudiante de Ingeniería de Sistemas e Informática (8vo ciclo)  
+🎓 Estudiante de Ingeniería de Sistemas e Informática (9no ciclo)  
 📍 Lima, Perú  
 💡 Interesado en Automatización, Análisis de Datos, Desarrollo Web y Soluciones Digitales  
 
