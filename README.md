@@ -1,211 +1,191 @@
+# 👨‍💻 Erick Oswaldo Urcia Callan  
 
+🎓 Estudiante de Ingeniería de Sistemas e Informática (9no ciclo – UTP)  
+📍 Lima, Perú  
+💡 Interesado en Automatización, Análisis de Datos, Desarrollo Web y Soluciones Digitales  
 
+---
 
-👨‍💻 Erick Oswaldo Urcia Callan
-🎓 Estudiante de Ingeniería de Sistemas e Informática (9no ciclo – UTP)
-📍 Lima, Perú
-💡 Interesado en Automatización, Análisis de Datos, Desarrollo Web y Soluciones Digitales
+## 🚀 Sobre mí  
 
-🚀 Sobre mí
-Soy estudiante de Ingeniería de Sistemas con enfoque en el desarrollo de soluciones tecnológicas, automatización de procesos y análisis de información. He trabajado en proyectos académicos y prácticos relacionados con bases de datos, ETL con SSIS y SQL Server, desarrollo web y optimización de procesos mediante programación.
+Soy estudiante de Ingeniería de Sistemas con enfoque en el desarrollo de soluciones tecnológicas, **automatización de procesos** y **análisis de información**.  
+He trabajado en proyectos académicos y prácticos relacionados con **bases de datos**, **ETL con SSIS y SQL Server**, **desarrollo web** y **optimización de procesos mediante programación**.  
 
-Me caracterizo por aprendizaje continuo, responsabilidad, organización y orientación a resultados. Actualmente busco fortalecer mis habilidades técnicas y profesionales en entornos de TI, datos y transformación digital.
+Me caracterizo por aprendizaje continuo, responsabilidad, organización y orientación a resultados. Actualmente busco fortalecer mis habilidades técnicas y profesionales en entornos de **TI, datos y transformación digital**.  
 
-🛠️ Tecnologías y Herramientas
-💻 Lenguajes y Bases de Datos
-Python 🐍 (Intermedio)
+---
 
-SQL Server 🗄️ (Intermedio)
+## 🛠️ Tecnologías y Herramientas  
 
-HTML, CSS y JavaScript 🌐
+### 💻 Lenguajes y Bases de Datos  
+- Python 🐍 (Intermedio)  
+- SQL Server 🗄️ (Intermedio)  
+- HTML, CSS y JavaScript 🌐  
 
-📊 Datos y Automatización
-Microsoft Excel (Tablas dinámicas, macros, reportes) 📈
+### 📊 Datos y Automatización  
+- Microsoft Excel (Tablas dinámicas, macros, reportes) 📈  
+- Power BI (Dashboards, KPIs, DAX)  
+- n8n ⚙️ (Automatización de flujos de trabajo)  
+- SSIS (ETL, integración de datos, Data Warehouse)  
 
-Power BI (Dashboards, KPIs, DAX)
+### ⚙️ Otras Herramientas  
+- Git y GitHub 🔧  
+- Draw.io (Diagramación de procesos)  
+- Visual Studio / Visual Studio Code  
+- Bizagi  
 
-n8n (Automatización de flujos de trabajo) ⚙️
+---
 
-SSIS (ETL, integración de datos, Data Warehouse)
+## 📂 Proyectos Destacados  
 
-⚙️ Otras Herramientas
-Git y GitHub 🔧
+### 📦 Proceso ETL con SSIS y SQL Server  
+- Configuración de orígenes planos (CSV).  
+- Conversión de tipos de datos y páginas de códigos (ANSI/UTF‑8).  
+- Tablas *staging* en NVARCHAR para soportar Unicode.  
+- Flujos de carga hacia un **Data Warehouse**.  
+- Resolución de problemas de validación y truncamiento.  
+- Ingesta correcta de miles de registros habilitando análisis en **Power BI**.  
 
-Draw.io (Diagramación de procesos)
+### 📊 Análisis de Datos y Visualización  
+- Dashboards interactivos en Power BI para indicadores académicos y escenarios de negocio.  
+- Reportes analíticos para apoyar la toma de decisiones.  
 
-Visual Studio / Visual Studio Code
+### 📦 Sistema de Gestión de Inventarios  
+- CRUD con Python y SQL Server.  
+- Diseño de base de datos relacional.  
+- Automatización de procesos de registro y consulta.  
 
-Bizagi
+### 🌐 Landing Page para Negocio Local  
+- Desarrollo web responsive con HTML, CSS, JS y React.  
+- Mejora de presencia digital.  
+- Resultado: incremento del 30 % en consultas.  
 
-📂 Proyectos Destacados
-📦 Proceso ETL con SSIS y SQL Server
-Configuración de orígenes planos (CSV).
+---
 
-Gestión de conversiones de tipos de datos y páginas de códigos (ANSI/UTF‑8).
+## 📈 Áreas de Interés  
 
-Creación de tablas staging en NVARCHAR para soportar datos Unicode.
+- Automatización de procesos  
+- Integración y análisis de datos  
+- Reporting y dashboards  
+- Desarrollo web  
+- Transformación digital  
+- Soporte TI  
 
-Implementación de flujos de carga hacia un Data Warehouse.
+---
 
-Resolución de problemas de validación, truncamiento y compatibilidad de codificación.
+## 🤝 Habilidades Profesionales  
 
-Ingesta correcta de miles de registros habilitando análisis en Power BI.
+- Análisis de información  
+- Organización y seguimiento de tareas  
+- Trabajo en equipo  
+- Comunicación efectiva  
+- Adaptabilidad  
+- Mejora continua  
 
-📊 Análisis de Datos y Visualización
-Actualización de bases de datos académicas en SQL Server.
+---
 
-Dashboards interactivos en Power BI para indicadores académicos y escenarios de negocio.
+## 📫 Contacto  
 
-Reportes analíticos para apoyar la toma de decisiones.
+📧 Correo: erickoswaldouc@gmail.com  
+🔗 LinkedIn: [Perfil LinkedIn](https://www.linkedin.com/in/erick-urcia-b01752319/)  
+💻 GitHub: [Perfil GitHub](https://github.com/ErickOswaldoUrciaCallan)  
 
-📦 Sistema de Gestión de Inventarios
-CRUD con Python y SQL Server.
-
-Diseño de base de datos relacional.
-
-Automatización de procesos de registro y consulta.
-
-🌐 Landing Page para Negocio Local
-Desarrollo web responsive con HTML, CSS, JS y React.
-
-Mejora de presencia digital.
-
-Resultado: incremento del 30 % en consultas.
-
-📈 Áreas de Interés
-Automatización de procesos
-
-Integración y análisis de datos
-
-Reporting y dashboards
-
-Desarrollo web
-
-Transformación digital
-
-Soporte TI
-
-🤝 Habilidades Profesionales
-Análisis de información
-
-Organización y seguimiento de tareas
-
-Trabajo en equipo
-
-Comunicación efectiva
-
-Adaptabilidad
-
-Mejora continua
-
-📫 Contacto
-📧 Correo: erickoswaldouc@gmail.com
-🔗 LinkedIn: Perfil LinkedIn  
-💻 GitHub: Perfil GitHub
+---
 
 ⭐ Gracias por visitar mi perfil. ¡Siempre abierto a aprender y colaborar en nuevos proyectos!
 
-👨‍💻 Erick Oswaldo Urcia Callan
-🎓 Systems Engineering Student (9th semester – UTP)
-📍 Lima, Peru
-💡 Interested in Automation, Data Analysis, Web Development, and Digital Solutions
+# 👨‍💻 Erick Oswaldo Urcia Callan  
 
-🚀 About Me
-I am a Systems Engineering student focused on developing technological solutions, process automation, and data analysis. I have worked on academic and practical projects related to databases, ETL with SSIS and SQL Server, web development, and process optimization through programming.
+🎓 Systems Engineering Student (9th semester – UTP)  
+📍 Lima, Peru  
+💡 Interested in Automation, Data Analysis, Web Development, and Digital Solutions  
 
-I am characterized by continuous learning, responsibility, organization, and a results-driven mindset. I am currently looking to strengthen my technical and professional skills in IT, data, and digital transformation environments.
+---
 
-🛠️ Technologies & Tools
-💻 Programming Languages & Databases
-Python 🐍 (Intermediate)
+## 🚀 About Me  
 
-SQL Server 🗄️ (Intermediate)
+I am a Systems Engineering student focused on developing technological solutions, **process automation**, and **data analysis**.  
+I have worked on academic and practical projects related to **databases**, **ETL with SSIS and SQL Server**, **web development**, and **process optimization through programming**.  
 
-HTML, CSS, and JavaScript 🌐
+I am characterized by continuous learning, responsibility, organization, and a results-driven mindset. I am currently looking to strengthen my technical and professional skills in **IT, data, and digital transformation environments**.  
 
-📊 Data & Automation
-Microsoft Excel (Pivot tables, macros, reporting) 📈
+---
 
-Power BI (Dashboards, KPIs, DAX)
+## 🛠️ Technologies & Tools  
 
-n8n (Workflow automation) ⚙️
+### 💻 Programming Languages & Databases  
+- Python 🐍 (Intermediate)  
+- SQL Server 🗄️ (Intermediate)  
+- HTML, CSS, and JavaScript 🌐  
 
-SSIS (ETL, data integration, Data Warehouse)
+### 📊 Data & Automation  
+- Microsoft Excel (Pivot tables, macros, reporting) 📈  
+- Power BI (Dashboards, KPIs, DAX)  
+- n8n ⚙️ (Workflow automation)  
+- SSIS (ETL, data integration, Data Warehouse)  
 
-⚙️ Other Tools
-Git & GitHub 🔧
+### ⚙️ Other Tools  
+- Git & GitHub 🔧  
+- Draw.io (Process diagramming)  
+- Visual Studio / Visual Studio Code  
+- Bizagi  
 
-Draw.io (Process diagramming)
+---
 
-Visual Studio / Visual Studio Code
+## 📂 Featured Projects  
 
-Bizagi
+### 📦 ETL Process with SSIS and SQL Server  
+- Configuration of flat file sources (CSV).  
+- Data type conversions and code page management (ANSI/UTF‑8).  
+- NVARCHAR staging tables to support Unicode.  
+- Loading flows into a **Data Warehouse**.  
+- Resolution of validation and truncation issues.  
+- Correct ingestion of thousands of records enabling analysis in **Power BI**.  
 
-📂 Featured Projects
-📦 ETL Process with SSIS and SQL Server
-Configuration of flat file sources (CSV).
+### 📊 Data Analysis and Visualization  
+- Interactive dashboards in Power BI for academic indicators and business scenarios.  
+- Analytical reports to support decision-making.  
 
-Management of data type conversions and code pages (ANSI/UTF‑8).
+### 📦 Inventory Management System  
+- CRUD system development using Python and SQL Server.  
+- Relational database design.  
+- Process automation for data registration and queries.  
 
-Creation of NVARCHAR staging tables to support Unicode data.
+### 🌐 Landing Page for Local Business  
+- Responsive web development with HTML, CSS, JS, and React.  
+- Improved digital presence.  
+- Result: 30 % increase in inquiries.  
 
-Implementation of loading flows into a Data Warehouse.
+---
 
-Resolution of validation, truncation, and encoding compatibility issues.
+## 📈 Areas of Interest  
 
-Correct ingestion of thousands of records enabling analysis in Power BI.
+- Process automation  
+- Data integration and analysis  
+- Reporting and dashboards  
+- Web development  
+- Digital transformation  
+- IT support  
 
-📊 Data Analysis and Visualization
-Database updates using SQL Server.
+---
 
-Interactive dashboards in Power BI for academic indicators and business scenarios.
+## 🤝 Professional Skills  
 
-Analytical reports to support decision-making.
+- Data analysis  
+- Task organization and follow-up  
+- Teamwork  
+- Effective communication  
+- Adaptability  
+- Continuous improvement mindset  
 
-📦 Inventory Management System
-CRUD system development using Python and SQL Server.
+---
 
-Relational database design.
+## 📫 Contact  
 
-Process automation for data registration and queries.
+📧 Email: erickoswaldouc@gmail.com  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/erick-urcia-b01752319/)  
+💻 GitHub: [GitHub Profile](https://github.com/ErickOswaldoUrciaCallan)  
 
-🌐 Landing Page for Local Business
-Responsive web development with HTML, CSS, JS, and React.
-
-Improved digital presence.
-
-Result: 30 % increase in inquiries.
-
-📈 Areas of Interest
-Process automation
-
-Data integration and analysis
-
-Reporting and dashboards
-
-Web development
-
-Digital transformation
-
-IT support
-
-🤝 Professional Skills
-Data analysis
-
-Task organization and follow-up
-
-Teamwork
-
-Effective communication
-
-Adaptability
-
-Continuous improvement mindset
-
-📫 Contact
-📧 Email: erickoswaldouc@gmail.com
-🔗 LinkedIn: LinkedIn Profile  
-💻 GitHub: GitHub Profile
+---
 
 ⭐ Thank you for visiting my profile. Always open to learning and collaborating on new projects!
-
